@@ -21,3 +21,9 @@ __IMAGE EDITS__: edits of images found online, making use of color grading techn
 <br>
 ***
 __OTHER PROJECTS__: Projects that don't fit the above categories, but nevertheless display my graphic design skills :P 
+***
+<br>
+
+
+**Additional Information:** <br>
+- Many images found in the 'Image Edits' folder feature an art style I've created called _Anti-Modern_. Anti-Modern can be best described as a heavy degredation of familiar imagery, to the point that it is barely recognizeable. It's meant to embody sensation of discovering a piece of esoteric media, which has long since been forgotten and discarded with time. But rather than envoking a sense of nostalgia for the past, it's meant to envoke an unfamiliar, alien-like aura. Sorta like when you look at really early AI-generated images that have no discernable objects in them.
